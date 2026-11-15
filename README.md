@@ -26,8 +26,3 @@ Estudiante de informática en Chile. Me gusta construir cosas de punta a punta: 
 | [contentflow-bdy0101](https://github.com/99nicolas/contentflow-bdy0101) | CRUD, consultas y API sobre MongoDB Atlas con dashboard | FastAPI, MongoDB, Power BI |
 | [soccer_y_machine_learning…](https://github.com/99nicolas/soccer_y_machine_learning_dataset_football) | Pipelines de datos y ML sobre un dataset de fútbol | Python, Kedro |
 | [evprogra](https://github.com/99nicolas/evprogra) | Pipelines de ciencia de datos para un caso de RR.HH. | Python, Kedro, Jupyter |
-
-### 📊 Estadísticas
-
-![Stats](https://github-readme-stats.vercel.app/api?username=99nicolas&show_icons=true&hide_border=true&count_private=true&theme=transparent)
-![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=99nicolas&layout=compact&hide_border=true&theme=transparent)
