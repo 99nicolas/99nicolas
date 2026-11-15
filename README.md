@@ -1,6 +1,6 @@
 ## Hola, soy Nicolás 👋
 
-Estudiante de informática en Chile. Me gusta construir cosas de punta a punta: desde la base de datos y la API hasta el frontend, y últimamente también pipelines de datos y machine learning.
+Estudiante de informática en Chile.
 
 ### 🛠️ Con lo que trabajo
 
