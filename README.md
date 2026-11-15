@@ -22,7 +22,6 @@ Estudiante de informática en Chile.
 | Proyecto | Descripción | Stack |
 |---|---|---|
 | [sneakerstore](https://github.com/99nicolas/sneakerstore) | E-commerce de zapatillas con carrito y checkout · [demo](https://sneakerstore-chi.vercel.app/) | React, Bootstrap |
-| [Backend-SneakerStore](https://github.com/99nicolas/Backend-SneakerStore) | API REST del catálogo de la tienda | Spring Boot, PostgreSQL, Docker |
 | [contentflow-bdy0101](https://github.com/99nicolas/contentflow-bdy0101) | CRUD, consultas y API sobre MongoDB Atlas con dashboard | FastAPI, MongoDB, Power BI |
 | [soccer_y_machine_learning…](https://github.com/99nicolas/soccer_y_machine_learning_dataset_football) | Pipelines de datos y ML sobre un dataset de fútbol | Python, Kedro |
 | [evprogra](https://github.com/99nicolas/evprogra) | Pipelines de ciencia de datos para un caso de RR.HH. | Python, Kedro, Jupyter |
